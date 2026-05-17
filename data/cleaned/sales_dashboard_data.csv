@@ -1,0 +1,301 @@
+order_id,order_date,region,segment,category,product,quantity,unit_price,discount,sales,profit
+ORD-0001,2025-01-18,South,Consumer,Technology,Monitor,4,799,0.05,3036.2,641.25
+ORD-0002,2025-06-18,East,Consumer,Technology,Monitor,1,4999,0.15,4249.15,978.7
+ORD-0003,2025-05-18,West,Consumer,Office Supplies,Printer,1,499,0.1,449.1,114.43
+ORD-0004,2025-05-15,South,Consumer,Technology,Monitor,2,499,0,998,224.84
+ORD-0005,2025-01-21,West,Corporate,Furniture,Monitor,3,1299,0.15,3312.45,558.62
+ORD-0006,2025-06-17,North,Consumer,Furniture,Wireless Mouse,2,1299,0,2598,507.74
+ORD-0007,2025-06-29,South,Consumer,Furniture,Wireless Mouse,4,499,0,1996,496.97
+ORD-0008,2025-05-16,North,Consumer,Technology,Printer,3,4999,0,14997,4461.77
+ORD-0009,2025-01-20,West,Home Office,Office Supplies,Printer,4,1299,0,5196,657.71
+ORD-0010,2025-05-31,South,Home Office,Furniture,Laptop Stand,3,499,0.05,1422.15,255.78
+ORD-0011,2025-06-23,West,Corporate,Office Supplies,Office Chair,5,799,0.15,3395.75,944.36
+ORD-0012,2025-01-14,North,Corporate,Technology,Laptop Stand,1,4999,0.1,4499.1,846.36
+ORD-0013,2025-03-25,North,Home Office,Furniture,Wireless Mouse,5,4999,0.15,21245.75,4634.14
+ORD-0014,2025-04-21,South,Home Office,Office Supplies,Printer,3,4999,0.15,12747.45,2498.69
+ORD-0015,2025-01-19,North,Corporate,Technology,Wireless Mouse,5,1299,0.05,6170.25,1618.68
+ORD-0016,2025-03-23,West,Consumer,Technology,Laptop Stand,2,7999,0.15,13598.3,4196.33
+ORD-0017,2025-01-27,South,Consumer,Technology,Wireless Mouse,4,1299,0.1,4676.4,980.96
+ORD-0018,2025-01-27,North,Consumer,Furniture,Monitor,5,4999,0.15,21245.75,2944.93
+ORD-0019,2025-01-04,West,Corporate,Furniture,Laptop Stand,5,1299,0.15,5520.75,1462.83
+ORD-0020,2025-06-25,East,Consumer,Technology,Notebook,5,799,0.05,3795.25,684.0
+ORD-0021,2025-02-12,East,Corporate,Furniture,Notebook,4,799,0,3196,693.04
+ORD-0022,2025-03-05,East,Home Office,Office Supplies,Office Chair,1,1299,0.1,1169.1,247.35
+ORD-0023,2025-04-12,West,Home Office,Furniture,Notebook,2,1299,0,2598,540.5
+ORD-0024,2025-03-18,West,Home Office,Office Supplies,Office Chair,4,7999,0.05,30396.2,6559.56
+ORD-0025,2025-03-16,East,Home Office,Technology,Notebook,2,2499,0.1,4498.2,878.1
+ORD-0026,2025-05-25,South,Home Office,Office Supplies,Office Chair,4,1299,0,5196,1331.96
+ORD-0027,2025-02-23,East,Corporate,Office Supplies,Laptop Stand,5,499,0.15,2120.75,601.85
+ORD-0028,2025-02-05,West,Consumer,Furniture,Printer,4,7999,0.15,27196.6,4102.03
+ORD-0029,2025-04-25,East,Home Office,Furniture,Monitor,4,2499,0,9996,2212.34
+ORD-0030,2025-04-03,North,Consumer,Technology,Printer,4,4999,0,19996,5057.76
+ORD-0031,2025-05-25,East,Corporate,Furniture,Laptop Stand,2,7999,0,15998,1953.51
+ORD-0032,2025-04-25,West,Corporate,Furniture,Printer,3,799,0.05,2277.15,541.32
+ORD-0033,2025-01-07,East,Consumer,Furniture,Wireless Mouse,5,799,0.1,3595.5,1093.43
+ORD-0034,2025-03-31,West,Corporate,Furniture,Office Chair,1,499,0.05,474.05,106.29
+ORD-0035,2025-04-23,East,Corporate,Technology,Notebook,3,2499,0,7497,966.64
+ORD-0036,2025-06-15,North,Home Office,Technology,Printer,1,499,0.1,449.1,75.8
+ORD-0037,2025-03-26,East,Corporate,Technology,Wireless Mouse,2,4999,0.05,9498.1,2336.08
+ORD-0038,2025-04-12,North,Home Office,Office Supplies,Office Chair,2,7999,0.15,13598.3,2854.49
+ORD-0039,2025-06-30,South,Consumer,Furniture,Printer,4,2499,0,9996,2816.33
+ORD-0040,2025-05-18,South,Corporate,Furniture,Office Chair,1,4999,0,4999,1057.34
+ORD-0041,2025-05-16,West,Home Office,Furniture,Monitor,3,7999,0.15,20397.45,4049.07
+ORD-0042,2025-04-28,South,Home Office,Office Supplies,Notebook,1,1299,0.1,1169.1,355.1
+ORD-0043,2025-03-22,North,Consumer,Furniture,Laptop Stand,5,499,0.05,2370.25,371.2
+ORD-0044,2025-04-18,South,Home Office,Furniture,Wireless Mouse,2,4999,0.15,8498.3,1335.51
+ORD-0045,2025-05-23,South,Corporate,Furniture,Office Chair,5,7999,0.05,37995.25,5981.2
+ORD-0046,2025-04-02,North,Corporate,Technology,Office Chair,4,4999,0,19996,5659.73
+ORD-0047,2025-04-15,East,Corporate,Office Supplies,Wireless Mouse,5,4999,0.15,21245.75,4626.05
+ORD-0048,2025-02-26,West,Consumer,Furniture,Office Chair,1,4999,0,4999,1137.38
+ORD-0049,2025-05-21,North,Home Office,Technology,Notebook,2,2499,0.15,4248.3,1168.38
+ORD-0050,2025-04-23,South,Corporate,Technology,Printer,3,4999,0,14997,4289.35
+ORD-0051,2025-04-26,West,Corporate,Technology,Wireless Mouse,2,1299,0,2598,761.36
+ORD-0052,2025-05-31,West,Home Office,Office Supplies,Printer,1,799,0.05,759.05,156.09
+ORD-0053,2025-02-22,North,Home Office,Furniture,Monitor,5,799,0.05,3795.25,668.79
+ORD-0054,2025-06-30,West,Corporate,Office Supplies,Notebook,5,799,0.1,3595.5,1116.33
+ORD-0055,2025-02-04,East,Consumer,Furniture,Printer,5,7999,0,39995,5814.38
+ORD-0056,2025-03-24,South,Home Office,Furniture,Wireless Mouse,2,799,0.05,1518.1,225.34
+ORD-0057,2025-04-07,East,Consumer,Office Supplies,Laptop Stand,3,7999,0.15,20397.45,4091.12
+ORD-0058,2025-04-27,East,Corporate,Office Supplies,Laptop Stand,3,7999,0.1,21597.3,6344.89
+ORD-0059,2025-06-12,West,Consumer,Office Supplies,Wireless Mouse,1,7999,0.15,6799.15,1112.11
+ORD-0060,2025-03-10,West,Corporate,Furniture,Monitor,4,799,0.15,2716.6,639.99
+ORD-0061,2025-06-24,North,Consumer,Technology,Printer,5,2499,0.1,11245.5,3112.51
+ORD-0062,2025-02-10,East,Corporate,Technology,Wireless Mouse,4,499,0,1996,320.29
+ORD-0063,2025-02-10,West,Consumer,Office Supplies,Notebook,2,7999,0.1,14398.2,2448.81
+ORD-0064,2025-01-14,East,Home Office,Furniture,Printer,3,7999,0.05,22797.15,5924.71
+ORD-0065,2025-06-30,North,Consumer,Technology,Wireless Mouse,2,2499,0,4998,677.67
+ORD-0066,2025-01-03,North,Home Office,Furniture,Laptop Stand,5,799,0.15,3395.75,1078.6
+ORD-0067,2025-05-03,North,Consumer,Furniture,Laptop Stand,4,7999,0.05,30396.2,8090.03
+ORD-0068,2025-04-05,West,Consumer,Furniture,Office Chair,1,499,0.1,449.1,111.52
+ORD-0069,2025-06-06,South,Corporate,Furniture,Printer,2,499,0,998,162.29
+ORD-0070,2025-02-25,North,Consumer,Technology,Laptop Stand,2,2499,0.15,4248.3,1010.73
+ORD-0071,2025-03-22,South,Consumer,Furniture,Printer,4,1299,0.15,4416.6,604.41
+ORD-0072,2025-06-26,North,Home Office,Furniture,Office Chair,5,4999,0.1,22495.5,5028.87
+ORD-0073,2025-03-17,North,Consumer,Furniture,Wireless Mouse,5,799,0.15,3395.75,484.06
+ORD-0074,2025-05-16,North,Corporate,Furniture,Office Chair,4,7999,0,31996,6314.98
+ORD-0075,2025-05-20,South,Corporate,Technology,Laptop Stand,5,2499,0.1,11245.5,2670.5
+ORD-0076,2025-01-11,North,Corporate,Office Supplies,Notebook,1,1299,0.05,1234.05,303.22
+ORD-0077,2025-06-29,East,Consumer,Office Supplies,Monitor,5,2499,0.15,10620.75,2416.55
+ORD-0078,2025-03-21,North,Home Office,Technology,Office Chair,2,1299,0,2598,590.47
+ORD-0079,2025-03-21,East,Home Office,Technology,Laptop Stand,4,4999,0,19996,3377.24
+ORD-0080,2025-06-06,North,Corporate,Office Supplies,Printer,4,499,0.15,1696.6,426.88
+ORD-0081,2025-02-05,North,Consumer,Furniture,Notebook,2,499,0,998,224.15
+ORD-0082,2025-02-02,West,Home Office,Technology,Laptop Stand,3,799,0.1,2157.3,403.42
+ORD-0083,2025-03-09,North,Corporate,Furniture,Monitor,4,1299,0,5196,997.76
+ORD-0084,2025-04-05,South,Corporate,Technology,Monitor,4,4999,0.05,18996.2,4840.69
+ORD-0085,2025-01-12,North,Consumer,Technology,Wireless Mouse,1,799,0,799,154.04
+ORD-0086,2025-05-22,East,Consumer,Furniture,Office Chair,2,799,0,1598,324.8
+ORD-0087,2025-05-27,West,Consumer,Office Supplies,Printer,3,1299,0,3897,1170.61
+ORD-0088,2025-04-13,North,Corporate,Furniture,Notebook,2,799,0,1598,296.37
+ORD-0089,2025-04-05,South,Corporate,Office Supplies,Notebook,5,2499,0,12495,3347.6
+ORD-0090,2025-06-01,East,Consumer,Office Supplies,Monitor,2,2499,0.1,4498.2,1223.94
+ORD-0091,2025-04-15,North,Consumer,Office Supplies,Notebook,2,799,0,1598,395.01
+ORD-0092,2025-06-18,East,Home Office,Office Supplies,Notebook,1,1299,0,1299,182.89
+ORD-0093,2025-05-06,North,Consumer,Office Supplies,Notebook,5,799,0.15,3395.75,470.67
+ORD-0094,2025-06-29,West,Corporate,Office Supplies,Laptop Stand,2,4999,0.15,8498.3,2006.91
+ORD-0095,2025-01-20,North,Corporate,Office Supplies,Office Chair,5,799,0.15,3395.75,568.29
+ORD-0096,2025-06-29,West,Corporate,Furniture,Notebook,3,1299,0.15,3312.45,552.26
+ORD-0097,2025-02-09,North,Consumer,Furniture,Wireless Mouse,2,799,0,1598,292.13
+ORD-0098,2025-02-23,East,Corporate,Furniture,Notebook,1,4999,0.1,4499.1,1306.97
+ORD-0099,2025-06-30,North,Consumer,Furniture,Office Chair,1,799,0.1,719.1,99.41
+ORD-0100,2025-05-12,North,Home Office,Furniture,Notebook,2,1299,0.15,2208.3,627.2
+ORD-0101,2025-04-26,South,Consumer,Furniture,Laptop Stand,2,499,0.15,848.3,238.19
+ORD-0102,2025-01-16,South,Consumer,Technology,Wireless Mouse,2,499,0,998,194.06
+ORD-0103,2025-01-20,North,Consumer,Technology,Printer,1,4999,0.1,4499.1,938.9
+ORD-0104,2025-02-01,North,Corporate,Technology,Office Chair,2,499,0.1,898.2,273.8
+ORD-0105,2025-05-08,North,Corporate,Office Supplies,Wireless Mouse,4,7999,0.15,27196.6,4203.55
+ORD-0106,2025-03-13,East,Consumer,Technology,Monitor,2,799,0.1,1438.2,350.68
+ORD-0107,2025-05-08,East,Home Office,Furniture,Laptop Stand,2,7999,0.1,14398.2,1980.39
+ORD-0108,2025-02-21,South,Home Office,Office Supplies,Laptop Stand,4,799,0.15,2716.6,863.55
+ORD-0109,2025-03-30,West,Corporate,Furniture,Office Chair,3,2499,0.15,6372.45,797.91
+ORD-0110,2025-03-13,North,Corporate,Office Supplies,Notebook,5,799,0,3995,1092.11
+ORD-0111,2025-03-05,South,Corporate,Office Supplies,Printer,2,799,0,1598,209.63
+ORD-0112,2025-04-01,South,Consumer,Technology,Monitor,2,4999,0.15,8498.3,1560.3
+ORD-0113,2025-06-30,West,Home Office,Office Supplies,Office Chair,3,4999,0,14997,3488.63
+ORD-0114,2025-02-14,East,Consumer,Technology,Laptop Stand,2,2499,0.1,4498.2,749.06
+ORD-0115,2025-01-01,West,Home Office,Technology,Office Chair,2,499,0.15,848.3,159.61
+ORD-0116,2025-01-06,South,Home Office,Office Supplies,Office Chair,2,1299,0,2598,714.12
+ORD-0117,2025-04-06,East,Home Office,Technology,Notebook,5,1299,0,6495,1171.39
+ORD-0118,2025-06-13,East,Home Office,Furniture,Office Chair,2,799,0.15,1358.3,355.11
+ORD-0119,2025-02-27,South,Corporate,Furniture,Printer,5,7999,0.1,35995.5,9276.03
+ORD-0120,2025-06-29,East,Home Office,Technology,Office Chair,2,799,0,1598,384.28
+ORD-0121,2025-05-08,South,Corporate,Office Supplies,Laptop Stand,5,799,0,3995,669.56
+ORD-0122,2025-06-21,West,Corporate,Technology,Notebook,3,799,0,2397,388.16
+ORD-0123,2025-01-28,North,Consumer,Furniture,Wireless Mouse,1,1299,0.1,1169.1,311.58
+ORD-0124,2025-04-07,West,Home Office,Furniture,Laptop Stand,2,2499,0.15,4248.3,1214.0
+ORD-0125,2025-02-11,East,Consumer,Technology,Notebook,5,7999,0.05,37995.25,4712.0
+ORD-0126,2025-03-29,South,Corporate,Technology,Printer,3,499,0,1497,202.1
+ORD-0127,2025-06-30,North,Corporate,Office Supplies,Office Chair,1,1299,0.15,1104.15,266.61
+ORD-0128,2025-01-26,West,Consumer,Technology,Wireless Mouse,4,799,0,3196,829.17
+ORD-0129,2025-03-18,South,Consumer,Technology,Wireless Mouse,5,1299,0.1,5845.5,1369.92
+ORD-0130,2025-04-03,North,Corporate,Technology,Notebook,4,799,0,3196,910.16
+ORD-0131,2025-01-25,North,Consumer,Technology,Printer,5,2499,0.05,11870.25,2117.21
+ORD-0132,2025-03-20,East,Corporate,Furniture,Printer,1,2499,0,2499,432.33
+ORD-0133,2025-04-05,East,Corporate,Technology,Wireless Mouse,5,2499,0.05,11870.25,1530.35
+ORD-0134,2025-02-27,West,Home Office,Technology,Office Chair,4,2499,0.1,8996.4,2433.05
+ORD-0135,2025-05-19,East,Home Office,Technology,Monitor,1,499,0.1,449.1,59.37
+ORD-0136,2025-05-18,East,Home Office,Technology,Wireless Mouse,4,4999,0.15,16996.6,3055.49
+ORD-0137,2025-05-09,South,Consumer,Furniture,Office Chair,4,7999,0,31996,9912.75
+ORD-0138,2025-02-02,North,Corporate,Technology,Printer,2,799,0.05,1518.1,314.37
+ORD-0139,2025-03-23,North,Consumer,Furniture,Monitor,2,4999,0.1,8998.2,1794.88
+ORD-0140,2025-01-04,East,Consumer,Furniture,Office Chair,3,1299,0.15,3312.45,495.67
+ORD-0141,2025-01-28,North,Corporate,Office Supplies,Notebook,5,4999,0,24995,7387.99
+ORD-0142,2025-05-27,East,Consumer,Technology,Notebook,3,2499,0.15,6372.45,1278.28
+ORD-0143,2025-01-10,East,Corporate,Office Supplies,Office Chair,5,4999,0.15,21245.75,2758.93
+ORD-0144,2025-01-06,West,Corporate,Furniture,Notebook,4,1299,0.1,4676.4,1349.47
+ORD-0145,2025-03-18,East,Corporate,Furniture,Printer,1,799,0.05,759.05,154.36
+ORD-0146,2025-02-24,East,Home Office,Furniture,Monitor,1,799,0.15,679.15,199.29
+ORD-0147,2025-01-17,West,Home Office,Office Supplies,Wireless Mouse,1,4999,0.05,4749.05,698.73
+ORD-0148,2025-02-14,South,Consumer,Technology,Office Chair,5,4999,0,24995,3164.72
+ORD-0149,2025-03-12,West,Corporate,Office Supplies,Wireless Mouse,1,1299,0.05,1234.05,304.91
+ORD-0150,2025-03-03,West,Corporate,Office Supplies,Wireless Mouse,1,7999,0,7999,1243.98
+ORD-0151,2025-03-30,South,Corporate,Office Supplies,Printer,4,4999,0.1,17996.4,2484.91
+ORD-0152,2025-02-11,South,Consumer,Office Supplies,Office Chair,1,2499,0,2499,638.59
+ORD-0153,2025-05-12,North,Home Office,Technology,Wireless Mouse,3,7999,0.15,20397.45,6166.21
+ORD-0154,2025-02-27,West,Home Office,Furniture,Printer,2,4999,0,9998,3133.42
+ORD-0155,2025-03-31,East,Corporate,Technology,Wireless Mouse,3,2499,0.15,6372.45,1149.77
+ORD-0156,2025-05-30,North,Consumer,Office Supplies,Printer,5,4999,0.15,21245.75,6656.23
+ORD-0157,2025-03-18,North,Corporate,Technology,Notebook,3,4999,0.1,13497.3,4287.72
+ORD-0158,2025-06-17,West,Consumer,Technology,Monitor,3,1299,0.1,3507.3,957.83
+ORD-0159,2025-06-19,West,Home Office,Technology,Printer,1,4999,0.15,4249.15,531.53
+ORD-0160,2025-04-18,East,Corporate,Office Supplies,Laptop Stand,4,1299,0.1,4676.4,1106.46
+ORD-0161,2025-02-26,East,Home Office,Furniture,Monitor,5,799,0.1,3595.5,647.33
+ORD-0162,2025-03-17,North,Corporate,Technology,Printer,2,7999,0.05,15198.1,2609.98
+ORD-0163,2025-06-17,North,Consumer,Furniture,Office Chair,5,799,0.1,3595.5,966.62
+ORD-0164,2025-04-06,West,Home Office,Furniture,Wireless Mouse,3,2499,0.1,6747.3,1958.36
+ORD-0165,2025-05-01,South,Home Office,Technology,Printer,4,499,0,1996,391.88
+ORD-0166,2025-02-08,South,Consumer,Furniture,Wireless Mouse,3,2499,0,7497,2379.84
+ORD-0167,2025-02-16,North,Corporate,Furniture,Printer,4,799,0.1,2876.4,912.76
+ORD-0168,2025-01-02,East,Corporate,Technology,Office Chair,3,7999,0,23997,5645.43
+ORD-0169,2025-02-03,East,Home Office,Furniture,Wireless Mouse,2,2499,0,4998,1028.61
+ORD-0170,2025-01-10,South,Home Office,Furniture,Laptop Stand,4,2499,0,9996,2982.82
+ORD-0171,2025-06-23,North,Home Office,Office Supplies,Office Chair,5,799,0,3995,660.19
+ORD-0172,2025-01-27,East,Home Office,Office Supplies,Notebook,3,1299,0.05,3702.15,567.92
+ORD-0173,2025-04-27,West,Corporate,Office Supplies,Office Chair,1,1299,0.1,1169.1,220.43
+ORD-0174,2025-02-12,East,Consumer,Technology,Office Chair,4,1299,0.05,4936.2,1310.23
+ORD-0175,2025-05-31,South,Consumer,Furniture,Printer,2,799,0,1598,399.67
+ORD-0176,2025-05-17,North,Home Office,Technology,Printer,1,2499,0.1,2249.1,318.52
+ORD-0177,2025-04-17,East,Corporate,Technology,Monitor,1,499,0,499,85.1
+ORD-0178,2025-03-19,East,Home Office,Technology,Printer,2,799,0,1598,358.05
+ORD-0179,2025-04-18,North,Home Office,Office Supplies,Monitor,5,4999,0.05,23745.25,3408.56
+ORD-0180,2025-02-20,South,Corporate,Office Supplies,Office Chair,1,499,0.15,424.15,81.26
+ORD-0181,2025-01-11,East,Consumer,Office Supplies,Wireless Mouse,4,1299,0.05,4936.2,918.73
+ORD-0182,2025-01-29,East,Consumer,Technology,Monitor,1,499,0,499,67.37
+ORD-0183,2025-04-27,West,Corporate,Furniture,Laptop Stand,1,1299,0.05,1234.05,172.72
+ORD-0184,2025-04-03,West,Corporate,Office Supplies,Laptop Stand,2,499,0.1,898.2,124.85
+ORD-0185,2025-06-19,South,Corporate,Furniture,Wireless Mouse,1,499,0.05,474.05,147.44
+ORD-0186,2025-04-06,West,Consumer,Technology,Wireless Mouse,3,7999,0,23997,4800.6
+ORD-0187,2025-06-26,East,Corporate,Office Supplies,Office Chair,4,1299,0.15,4416.6,629.86
+ORD-0188,2025-04-17,East,Home Office,Office Supplies,Wireless Mouse,1,799,0,799,124.85
+ORD-0189,2025-06-25,South,Corporate,Furniture,Laptop Stand,4,1299,0,5196,1545.91
+ORD-0190,2025-03-08,West,Consumer,Office Supplies,Printer,4,499,0,1996,449.03
+ORD-0191,2025-06-21,West,Home Office,Office Supplies,Printer,5,7999,0.05,37995.25,9883.17
+ORD-0192,2025-05-04,West,Home Office,Office Supplies,Printer,1,2499,0.05,2374.05,467.63
+ORD-0193,2025-01-03,South,Home Office,Furniture,Wireless Mouse,5,4999,0,24995,7345.61
+ORD-0194,2025-03-03,West,Corporate,Technology,Monitor,1,2499,0.1,2249.1,370.07
+ORD-0195,2025-01-21,East,Corporate,Office Supplies,Wireless Mouse,4,2499,0.05,9496.2,1306.71
+ORD-0196,2025-01-31,East,Home Office,Office Supplies,Laptop Stand,4,2499,0.1,8996.4,1264.25
+ORD-0197,2025-01-24,West,Home Office,Office Supplies,Office Chair,4,499,0,1996,500.83
+ORD-0198,2025-01-14,South,Corporate,Furniture,Monitor,4,1299,0.1,4676.4,1278.92
+ORD-0199,2025-04-26,North,Consumer,Office Supplies,Office Chair,5,2499,0.1,11245.5,1354.4
+ORD-0200,2025-05-21,West,Home Office,Technology,Laptop Stand,3,7999,0.1,21597.3,6465.7
+ORD-0201,2025-01-28,West,Home Office,Technology,Office Chair,4,799,0.15,2716.6,391.6
+ORD-0202,2025-02-18,West,Consumer,Furniture,Laptop Stand,4,799,0.15,2716.6,829.45
+ORD-0203,2025-04-28,South,Corporate,Technology,Monitor,5,499,0.15,2120.75,566.76
+ORD-0204,2025-05-11,South,Home Office,Office Supplies,Office Chair,5,2499,0.15,10620.75,2826.17
+ORD-0205,2025-06-18,West,Home Office,Furniture,Wireless Mouse,2,499,0.15,848.3,267.98
+ORD-0206,2025-03-29,West,Corporate,Technology,Office Chair,2,1299,0.15,2208.3,447.29
+ORD-0207,2025-05-22,South,Consumer,Technology,Monitor,5,1299,0.1,5845.5,1536.65
+ORD-0208,2025-06-16,South,Home Office,Office Supplies,Printer,3,7999,0.05,22797.15,5639.46
+ORD-0209,2025-05-30,East,Home Office,Office Supplies,Monitor,1,1299,0.15,1104.15,195.64
+ORD-0210,2025-01-07,East,Consumer,Technology,Printer,4,499,0,1996,262.12
+ORD-0211,2025-06-24,West,Consumer,Technology,Printer,3,799,0.1,2157.3,597.29
+ORD-0212,2025-04-02,East,Consumer,Office Supplies,Printer,2,4999,0,9998,2678.45
+ORD-0213,2025-03-02,West,Home Office,Office Supplies,Laptop Stand,2,7999,0.15,13598.3,4151.52
+ORD-0214,2025-05-22,North,Consumer,Office Supplies,Notebook,4,2499,0.1,8996.4,1444.98
+ORD-0215,2025-05-31,South,Home Office,Technology,Notebook,4,799,0.1,2876.4,603.36
+ORD-0216,2025-05-12,North,Corporate,Technology,Wireless Mouse,1,799,0.05,759.05,133.46
+ORD-0217,2025-05-30,West,Consumer,Furniture,Wireless Mouse,3,799,0.05,2277.15,596.47
+ORD-0218,2025-03-24,North,Home Office,Office Supplies,Printer,2,499,0.05,948.1,170.88
+ORD-0219,2025-01-19,West,Home Office,Technology,Office Chair,5,4999,0.1,22495.5,5041.72
+ORD-0220,2025-05-20,East,Consumer,Furniture,Office Chair,5,799,0.15,3395.75,1007.45
+ORD-0221,2025-03-17,South,Home Office,Office Supplies,Wireless Mouse,3,1299,0.1,3507.3,1119.97
+ORD-0222,2025-04-25,South,Home Office,Office Supplies,Monitor,1,499,0.1,449.1,75.79
+ORD-0223,2025-04-08,North,Corporate,Furniture,Monitor,1,7999,0.1,7199.1,1906.29
+ORD-0224,2025-05-12,East,Corporate,Technology,Notebook,1,4999,0.1,4499.1,1348.18
+ORD-0225,2025-01-25,South,Home Office,Office Supplies,Laptop Stand,2,1299,0,2598,637.51
+ORD-0226,2025-06-25,East,Consumer,Technology,Monitor,2,7999,0.05,15198.1,4342.85
+ORD-0227,2025-06-25,South,Consumer,Furniture,Printer,4,7999,0,31996,5962.23
+ORD-0228,2025-02-15,West,Home Office,Technology,Monitor,1,499,0,499,141.88
+ORD-0229,2025-04-26,East,Corporate,Furniture,Laptop Stand,3,2499,0.15,6372.45,1261.11
+ORD-0230,2025-06-14,North,Home Office,Office Supplies,Laptop Stand,1,4999,0,4999,1300.62
+ORD-0231,2025-03-16,West,Home Office,Technology,Notebook,1,1299,0,1299,354.7
+ORD-0232,2025-06-19,North,Corporate,Technology,Monitor,4,2499,0.15,8496.6,1393.21
+ORD-0233,2025-06-12,South,Corporate,Office Supplies,Printer,4,4999,0.1,17996.4,4491.69
+ORD-0234,2025-02-01,North,Consumer,Office Supplies,Monitor,1,4999,0.05,4749.05,944.19
+ORD-0235,2025-02-23,West,Consumer,Furniture,Printer,5,499,0.1,2245.5,651.85
+ORD-0236,2025-02-26,West,Consumer,Technology,Office Chair,2,799,0.05,1518.1,385.89
+ORD-0237,2025-06-15,North,Corporate,Office Supplies,Laptop Stand,5,499,0.15,2120.75,360.82
+ORD-0238,2025-03-26,West,Consumer,Office Supplies,Printer,2,7999,0.15,13598.3,2269.65
+ORD-0239,2025-02-19,West,Corporate,Furniture,Notebook,3,4999,0,14997,3648.3
+ORD-0240,2025-05-25,West,Corporate,Furniture,Office Chair,3,7999,0.05,22797.15,2757.69
+ORD-0241,2025-03-12,West,Consumer,Office Supplies,Printer,2,799,0.15,1358.3,253.07
+ORD-0242,2025-04-02,West,Corporate,Office Supplies,Laptop Stand,4,2499,0.15,8496.6,1318.28
+ORD-0243,2025-02-05,South,Corporate,Office Supplies,Printer,5,499,0.1,2245.5,303.8
+ORD-0244,2025-05-29,East,Home Office,Technology,Laptop Stand,1,499,0,499,114.93
+ORD-0245,2025-06-17,South,Corporate,Furniture,Office Chair,5,4999,0.15,21245.75,6337.34
+ORD-0246,2025-02-04,East,Home Office,Office Supplies,Laptop Stand,5,7999,0.1,35995.5,7175.96
+ORD-0247,2025-06-07,South,Home Office,Technology,Wireless Mouse,5,499,0.05,2370.25,359.91
+ORD-0248,2025-05-04,West,Consumer,Technology,Wireless Mouse,5,4999,0.05,23745.25,3950.02
+ORD-0249,2025-01-11,South,Home Office,Furniture,Wireless Mouse,3,1299,0.05,3702.15,792.02
+ORD-0250,2025-06-16,West,Consumer,Office Supplies,Monitor,4,499,0,1996,492.44
+ORD-0251,2025-05-29,South,Corporate,Office Supplies,Wireless Mouse,3,7999,0.1,21597.3,4169.56
+ORD-0252,2025-04-07,South,Home Office,Furniture,Notebook,1,4999,0.1,4499.1,1275.26
+ORD-0253,2025-06-04,North,Home Office,Technology,Wireless Mouse,3,2499,0.15,6372.45,975.76
+ORD-0254,2025-02-24,South,Consumer,Technology,Notebook,1,4999,0.1,4499.1,1081.6
+ORD-0255,2025-04-17,West,Home Office,Technology,Wireless Mouse,1,7999,0.05,7599.05,1938.11
+ORD-0256,2025-06-15,East,Consumer,Technology,Laptop Stand,4,799,0.05,3036.2,442.0
+ORD-0257,2025-06-11,North,Home Office,Technology,Laptop Stand,5,799,0.05,3795.25,581.69
+ORD-0258,2025-06-03,North,Home Office,Office Supplies,Printer,2,4999,0.15,8498.3,2415.73
+ORD-0259,2025-06-05,East,Corporate,Technology,Office Chair,1,799,0.15,679.15,194.29
+ORD-0260,2025-06-09,West,Consumer,Office Supplies,Printer,5,799,0.05,3795.25,715.53
+ORD-0261,2025-02-28,East,Corporate,Technology,Laptop Stand,4,4999,0,19996,2465.76
+ORD-0262,2025-02-08,North,Consumer,Furniture,Monitor,5,4999,0.15,21245.75,5098.19
+ORD-0263,2025-01-24,East,Home Office,Technology,Monitor,5,4999,0,24995,5695.29
+ORD-0264,2025-05-14,East,Corporate,Technology,Printer,1,7999,0.15,6799.15,1536.36
+ORD-0265,2025-03-31,North,Corporate,Technology,Notebook,2,2499,0.15,4248.3,915.2
+ORD-0266,2025-06-03,East,Corporate,Technology,Laptop Stand,2,499,0.1,898.2,235.18
+ORD-0267,2025-05-14,North,Corporate,Office Supplies,Office Chair,1,4999,0,4999,1287.51
+ORD-0268,2025-01-28,South,Corporate,Office Supplies,Monitor,3,2499,0.1,6747.3,1151.94
+ORD-0269,2025-06-06,West,Home Office,Furniture,Office Chair,5,2499,0.1,11245.5,2278.85
+ORD-0270,2025-04-05,East,Corporate,Furniture,Monitor,5,2499,0.05,11870.25,2241.95
+ORD-0271,2025-06-18,North,Home Office,Technology,Wireless Mouse,4,7999,0.05,30396.2,8408.25
+ORD-0272,2025-05-11,East,Corporate,Office Supplies,Monitor,2,499,0.05,948.1,245.95
+ORD-0273,2025-06-12,North,Consumer,Technology,Wireless Mouse,1,799,0.15,679.15,207.26
+ORD-0274,2025-03-09,South,Corporate,Technology,Monitor,4,499,0,1996,254.59
+ORD-0275,2025-06-02,North,Consumer,Office Supplies,Wireless Mouse,4,2499,0.1,8996.4,1869.4
+ORD-0276,2025-02-19,North,Home Office,Office Supplies,Monitor,2,7999,0.1,14398.2,3739.07
+ORD-0277,2025-04-03,South,Home Office,Technology,Office Chair,5,799,0,3995,548.79
+ORD-0278,2025-06-21,East,Corporate,Office Supplies,Office Chair,3,2499,0.1,6747.3,1508.35
+ORD-0279,2025-05-24,West,Corporate,Furniture,Office Chair,1,499,0.1,449.1,108.36
+ORD-0280,2025-05-28,North,Corporate,Technology,Wireless Mouse,2,2499,0.15,4248.3,939.93
+ORD-0281,2025-03-29,North,Home Office,Furniture,Monitor,5,499,0.1,2245.5,634.64
+ORD-0282,2025-04-07,East,Consumer,Furniture,Wireless Mouse,5,1299,0.15,5520.75,1415.07
+ORD-0283,2025-01-30,West,Consumer,Furniture,Printer,5,499,0.15,2120.75,589.0
+ORD-0284,2025-03-22,East,Corporate,Office Supplies,Monitor,2,7999,0.05,15198.1,1853.33
+ORD-0285,2025-01-24,East,Home Office,Office Supplies,Notebook,3,799,0.1,2157.3,291.68
+ORD-0286,2025-04-01,South,Home Office,Furniture,Office Chair,2,2499,0.1,4498.2,1391.85
+ORD-0287,2025-03-02,South,Corporate,Technology,Office Chair,2,2499,0.05,4748.1,762.32
+ORD-0288,2025-02-09,North,Consumer,Technology,Printer,2,4999,0.1,8998.2,2799.84
+ORD-0289,2025-05-19,North,Corporate,Furniture,Monitor,4,4999,0,19996,3660.94
+ORD-0290,2025-02-16,West,Corporate,Technology,Monitor,5,1299,0.15,5520.75,804.09
+ORD-0291,2025-05-19,North,Home Office,Furniture,Wireless Mouse,5,2499,0.15,10620.75,3102.11
+ORD-0292,2025-06-28,East,Corporate,Office Supplies,Laptop Stand,2,2499,0,4998,611.58
+ORD-0293,2025-03-25,West,Home Office,Furniture,Office Chair,2,2499,0,4998,1148.1
+ORD-0294,2025-06-06,West,Corporate,Technology,Wireless Mouse,2,1299,0.15,2208.3,452.23
+ORD-0295,2025-04-04,East,Corporate,Furniture,Office Chair,4,7999,0.1,28796.4,6746.48
+ORD-0296,2025-01-26,West,Consumer,Office Supplies,Wireless Mouse,5,7999,0.05,37995.25,11066.56
+ORD-0297,2025-05-02,North,Consumer,Furniture,Wireless Mouse,2,799,0.05,1518.1,223.0
+ORD-0298,2025-05-05,West,Corporate,Office Supplies,Monitor,5,4999,0.1,22495.5,2914.11
+ORD-0299,2025-01-16,South,Corporate,Furniture,Printer,1,7999,0.05,7599.05,1058.25
+ORD-0300,2025-04-03,West,Corporate,Technology,Wireless Mouse,3,1299,0.1,3507.3,505.92

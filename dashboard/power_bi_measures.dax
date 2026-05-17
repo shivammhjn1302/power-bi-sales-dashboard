@@ -1,0 +1,6 @@
+Total Sales = SUM(sales_dashboard_data[sales])
+Total Profit = SUM(sales_dashboard_data[profit])
+Total Orders = DISTINCTCOUNT(sales_dashboard_data[order_id])
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+Total Quantity = SUM(sales_dashboard_data[quantity])
