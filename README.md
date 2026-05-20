@@ -1,19 +1,21 @@
-# Power BI Sales Dashboard — Beginner Project
+# Power BI Sales Command Center
 
-A beginner Power BI portfolio project using a clean sales dataset.
+A sales dashboard project designed like a regional revenue control room: KPI cards, slicers, product/category views, and profit trends built around fast executive scanning.
 
-## Skills Demonstrated
+The theme uses a **business cockpit** feel — dark panels, sharp KPI hierarchy, and clean sales storytelling rather than a generic sample dashboard.
 
-- Loading CSV data into Power BI
-- Building KPI cards
-- Creating DAX measures
-- Adding slicers for interactivity
-- Creating sales, profit, region, category, and product visuals
+## What this project shows
 
-## Important Note
+- Preparing a clean sales dataset for Power BI
+- Building KPI cards for revenue, profit, quantity, and growth
+- Creating DAX measures for sales performance
+- Adding slicers for region, product category, and time
+- Designing sales, profit, category, and product visuals
 
-This repo includes the dataset, DAX measures, dashboard specification, and an HTML preview. The native `.pbix` file should be created in Power BI Desktop using the included guide.
+## Important note
 
-## Recommended Repository Use
+This repo includes the dataset, DAX measures, dashboard specification, and an HTML preview. The native `.pbix` file can be recreated in Power BI Desktop using the included guide.
 
-Use this as a beginner dashboard project to show dashboard planning, data preparation, and BI storytelling.
+## Recommended use
+
+Use this project to show dashboard planning, data preparation, KPI thinking, and BI storytelling for a sales analytics use case.
